@@ -5,7 +5,6 @@ public class GithubStudy2 {
 		int A = 3;
 		int B = 4;
 		System.out.println(A * B);
-		System.out.println("test");
 
 	}
 
